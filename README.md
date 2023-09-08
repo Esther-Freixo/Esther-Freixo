@@ -58,7 +58,7 @@
 </tr>
 </table>
 <!--- stats (end) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esther-Freixo&hide=javascript,html)](https://github.com/Esther-Freixo/github-readme-stats">
+<img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Esther-Freixo&hide=javascript,html)](https://github.com/Esther-Freixo/github-readme-stats")>
 
 
 

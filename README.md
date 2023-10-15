@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **Web Development at Trybe**
 
-- ☁️ I've keen interest in AI. So,I'm learning **Python**
+- ☁️ I've keen interest in mobile. So,I'm learning **Java**
 
 - 📫 Feel free to reach me out **freixo.esther@gmail.com**
   

@@ -19,7 +19,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **JavaScript, React and TypeScript**  
+- 🔭 I’m currently working on **JavaScript, React, TypeScript and Docker**  
 
 - 🌱 I’m currently learning **Web Development at Trybe**
 

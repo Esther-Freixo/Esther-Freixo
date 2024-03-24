@@ -19,7 +19,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **JavaScript, React, TypeScript and Docker**  
+- 📘 I've also learned about **JavaScript, TypeScript, Automated Testing, React (with an emphasis on class and functional components. states, events and component styling), React Router, Redux, Context API & Hooks, and Agile** 
+
+- 🔭 I’m currently working on **Docker, SQL, Node.js and Express**  
 
 - 🌱 I’m currently learning **Web Development at Trybe**
 

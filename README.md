@@ -19,9 +19,12 @@
 
 
 <!--Intro start-->
-- 📘 I've also learned about **JavaScript, TypeScript, Automated Testing, React (with an emphasis on class and functional components. states, events and component styling), React Router, Redux, Context API & Hooks, and Agile** 
 
-- 🔭 I’m currently working on **Docker, SQL, Node.js and Express**  
+How about this adjustment for a more fluid introduction:
+
+- 📘 Skilled in JavaScript, TypeScript, Automated Testing, React (with an emphasis on class and functional components, states, events, and component styling), React Router, Redux, Context API & Hooks, and Agile methodologies.
+
+- 🔭 Currently focusing on Docker, SQL, Node.js, and Express as I expand my backend development capabilities.
 
 - 🌱 I’m currently learning **Web Development at Trybe**
 

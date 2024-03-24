@@ -22,9 +22,9 @@
 
 How about this adjustment for a more fluid introduction:
 
-- 📘 Skilled in JavaScript, TypeScript, Automated Testing, React (with an emphasis on class and functional components, states, events, and component styling), React Router, Redux, Context API & Hooks, and Agile methodologies.
+- 📘 Skilled in **JavaScript, TypeScript, Automated Testing, React (with an emphasis on class and functional components, states, events, and component styling), React Router, Redux, Context API & Hooks, and Agile methodologies.**
 
-- 🔭 Currently focusing on Docker, SQL, Node.js, and Express as I expand my backend development capabilities.
+- 🔭 Currently focusing on **Docker, SQL, Node.js, and Express as I expand my backend development capabilities.**
 
 - 🌱 I’m currently learning **Web Development at Trybe**
 

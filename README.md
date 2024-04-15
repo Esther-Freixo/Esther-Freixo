@@ -28,7 +28,7 @@ How about this adjustment for a more fluid introduction:
 
 - 🌱 I’m currently learning **Web Development at Trybe**
 
-- ☁️ I've keen interest in mobile. So,I'm learning **Java**
+- ☁️ I've keen interest in Cloud and DevOps. So,I'm learning **Java and Python**
 
 - 📫 Feel free to reach me out **freixo.esther@gmail.com**
   

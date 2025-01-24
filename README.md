@@ -22,13 +22,11 @@
 
 How about this adjustment for a more fluid introduction:
 
-- 📘 Skilled in **JavaScript, TypeScript, Automated Testing, React (with an emphasis on class and functional components, states, events, and component styling), React Router, Redux, Context API & Hooks, and Agile methodologies.**
+- 📘 Skilled in **C#, .NET, .NET MAUI, JavaScript, TypeScript, Automated Testing, React, Angular, React Router, Redux, Context API & Hooks, Docker, SQL, SQLServer, Node.js, Express and Agile methodologies.**
 
-- 🔭 Currently focusing on **Docker, SQL, Node.js, and Express as I expand my backend development capabilities.**
+- 🔭 Currently focusing on **.NET, microsservices and AWS**
 
-- 🌱 I’m currently learning **Web Development at Trybe**
-
-- ☁️ I've keen interest in Cloud and DevOps. So,I'm learning **Java and Python**
+- ☁️ I've keen interest in Cloud and Backend. So,I'm learning **C# and Python**
 
 - 📫 Feel free to reach me out **freixo.esther@gmail.com**
   
